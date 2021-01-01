@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "^10.0.4",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "sass": "^1.32.0"
+  }
+}
