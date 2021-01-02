@@ -1,0 +1,15 @@
+.HomePage {
+  max-width: 500px;
+  margin: 48px auto;
+
+  select,
+  input {
+    margin-bottom: 24px;
+  }
+
+  & > div {
+    & > p:first-child {
+      margin-top: 16px;
+    }
+  }
+}

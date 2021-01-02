@@ -4,5 +4,26 @@
 
 body {
   margin: 0;
-  font-family: 'Arial', sans-serif;
+  font-family: "Arial", sans-serif;
+  font-size: 1.2rem;
+}
+
+p {
+  margin: 0;
+}
+
+input,
+label {
+  display: block;
+}
+
+label {
+  margin-bottom: 4px;
+}
+
+select,
+input {
+  width: 100%;
+  padding: 4px;
+  font-size: inherit;
 }
