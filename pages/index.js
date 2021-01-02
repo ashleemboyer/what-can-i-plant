@@ -301,7 +301,6 @@ const HomePage = () => {
         <option value="spring">Spring</option>
         <option value="summer">Summer</option>
         <option value="fall">Fall</option>
-        <option value="winter">Winter</option>
       </select>
       <label>What day is it? (1-28)</label>
       <input
